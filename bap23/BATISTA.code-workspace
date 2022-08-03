@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\hotel-website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BATISTA"
+	}
+}
